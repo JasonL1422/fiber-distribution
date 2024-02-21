@@ -1,5 +1,5 @@
 # fiber-distribution
-To generate fibers (or lines) distributed following gaussian distribution
+To generate fibers (or lines) distributed within a plane following gaussian distribution. Hope you find it useful.
 <div align="center">
-  <img width="700" src="https://github.com/JasonL1422/storage/blob/main/fiber%20distribution.png" />
+  <img width="1000" src="https://github.com/JasonL1422/storage/blob/main/fiber%20distribution.png" />
 </div>
